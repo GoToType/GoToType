@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Henry @ Gototype</h1>
-<h3 align="center">A passionate frontend engineer from Brazil but also Italy</h3>
+<h3 align="center">A passionate frontend engineer born in Brazil and raised in Italy</h3>
 
 - 🔭 I’m currently working on [Gototype](https://gototype.com)
 
